@@ -3,11 +3,11 @@ entries:
   pod-logger-operator:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2024-06-27T21:51:53.186698138+05:30"
+    created: "2024-06-27T22:01:06.38603088+05:30"
     description: A Helm chart for Kubernetes Pod Logger Operator
-    digest: 249cf3ddf7385bada71855364fe3131977b4f4b1595b3b57e084f78a0e0d1ae9
+    digest: b39b13eb6a0dff401317a009f25868bbc9fa265a7cb57fe147af2e02e87c8085
     name: pod-logger-operator
     urls:
     - https://anurag-2911.github.io/helm-charts/pod-logger-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-27T21:51:53.186003619+05:30"
+generated: "2024-06-27T22:01:06.385382253+05:30"
