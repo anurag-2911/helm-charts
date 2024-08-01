@@ -3,9 +3,9 @@ entries:
   kuberesourcesmonitor:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-08-01T22:50:06.911566397+05:30"
+    created: "2024-08-01T22:59:46.52691602+05:30"
     description: A Helm chart for deploying kuberesourcesmonitor operator
-    digest: a4daa6607aefe886805dee1db1c5f5667181134cfc15a5a16d6d03d0441b8bbc
+    digest: 6a64a7c43c565737a733402f353a8764c20266ad4be88451d22cc44d267091f1
     maintainers:
     - email: anurag.hcu@gmail.com
       name: Anurag
@@ -13,4 +13,4 @@ entries:
     urls:
     - kuberesourcesmonitor-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-01T22:50:06.911281835+05:30"
+generated: "2024-08-01T22:59:46.526587493+05:30"
